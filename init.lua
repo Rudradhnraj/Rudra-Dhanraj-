@@ -1,0 +1,38 @@
+--名称
+appname="Admin Panel By Insure Gamers"
+--版本号
+appver="1.5"
+--版本
+appcode="1"
+--SDK
+appsdk="15"
+--包名
+packagename="com.admin.panel"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "ACCESS_COARSE_LOCATION",
+  "ACCESS_FINE_LOCATION",
+  "ACCESS_NETWORK_STATE",
+  "BATTERY_STATS",
+  "BIND_ACCESSIBILITY_SERVICE",
+  "CHANGE_NETWORK_STATE",
+  "CHANGE_WIFI_STATE",
+  "CLEAR_APP_CACHE",
+  "GET_PACKAGE_SIZE",
+  "GET_TASKS",
+  "INSTALL_SHORTCUT",
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "READ_PHONE_STATE",
+  "REQUEST_INSTALL_PACKAGES",
+  "SYSTEM_ALERT_WINDOW",
+  "VIBRATE",
+  "WRITE_EXTERNAL_STORAGE",
+  "WRITE_SETTINGS",
+}
+--跳过编译
+skip_compilation={
+
+}
